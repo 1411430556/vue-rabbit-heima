@@ -1,0 +1,830 @@
+{
+	"i7v07f4": {
+		"zh-cn": "账户登录",
+		"en": "Account login",
+		"ko": "계정 로그인",
+		"ja": "口座登録です"
+	},
+	"3sm6vfdn": {
+		"zh-cn": "<footer class=\"login-footer\" data-v-4f26715f><div class=\"container\" data-v-4f26715f><p data-v-4f26715f><a href=\"javascript:;\" data-v-4f26715f>关于我们</a><a href=\"javascript:;\" data-v-4f26715f>帮助中心</a><a href=\"javascript:;\" data-v-4f26715f>售后服务</a><a href=\"javascript:;\" data-v-4f26715f>配送与验收</a><a href=\"javascript:;\" data-v-4f26715f>商务合作</a><a href=\"javascript:;\" data-v-4f26715f>搜索推荐</a><a href=\"javascript:;\" data-v-4f26715f>友情链接</a></p><p data-v-4f26715f>CopyRight © 小兔鲜儿</p></div></footer>",
+		"en": "<footer class=\"login-footer\" data-v-4f26715f><div class=\"container\" data-v-4f26715f><p data-v-4f26715f><a href=\"javascript:;\" data-v-4f26715f> About us </a><a href=\"javascript:;\" data-v-4f26715f> Help Center </a><a href=\"javascript:;\" data-v-4f26715f> After-sales service </a><a href=\"javascript:;\" data-v-4f26715f> Distribution and Acceptance </a><a href=\"javascript:;\" data-v-4f26715f> Business collaboration </a><a href=\"javascript:;\" data-v-4f26715f> Search recommendations </a><a href=\"javascript:;\" data-v-4f26715f> Links </a></p><p data-v-4f26715f>CopyRight © Little rabbit </p></div></footer>",
+		"ko": "<footer class=\"login-footer\"data-v-4f26715f><div class=\"container\"data-v-4f26715f><p data-v-4f26715f><ajavascript:다/data-v-4f26715f> 우리에 대한 정보 </a><a href=\"javascript:;\"data-v-4f26715f> help center </a><a href=\"javascript:;\"data-v-4f26715f> 애프터서비스 </a><a href=\"javascript:;\"data-v-4f26715f> 유통 및 감사 </a><a href=\"javascript:;\"data-v-4f26715f> 비즈니스 제휴 </a><a href=\"javascript:;\"data-v-4f26715f> 검색 추천 </a><a href=\"javascript:;\"data-v-4f26715f> 링크 </a></p><p data-v-4f26715f> copyright © </p></div></footer>",
+		"ja": "< footer class = \"「login—footer data−v−4 f26715f > < div class = \"コンテナdata−v−4 f26715f > < p japan−v−4 f26715f > < ahref=\"javascript:;\"です。data-v-4f26715f>私たちについて</a><a href=\"javascript:;\"です。data-v-4f26715f>ヘルプセンター</a><a href=\"javascript:;\"ですdata-v-4f26715f>サービス</ >< href=\"javascript:;\"です。data-v-4f26715f>配送と検収</ >< href=\"javascript:;\"です。data-v-4f26715f>ビジネス</a><a href=\"javascript:;\"data-v-4f26715f>検索推奨</ >< href=\"javascript:;\"です。data-v-4f26715f>フレンドシップリンク</a></p><p data-v-4f26715f>CopyRight©うさぎさん</p></div></footer>"
+	},
+	"a2vi1e7": {
+		"zh-cn": "用户名不能为空",
+		"en": "The user name cannot be empty",
+		"ko": "사용자 이름은 비어 있을 수 없습니다",
+		"ja": "ユーザー名は空にできません。"
+	},
+	"pcjrt76": {
+		"zh-cn": "密码不能为空",
+		"en": "The password cannot be empty",
+		"ko": "암호가 비어 있을 수 없습니다",
+		"ja": "パスワードは空にできません。"
+	},
+	"l06721c": {
+		"zh-cn": "密码长度为6-14个字符",
+		"en": "The password must be 6 to 14 characters long",
+		"ko": "비밀번호는 6~14 글자로 되어 있다",
+		"ja": "暗号の長さは6 ~ 14文字です"
+	},
+	"9x7s5b5": {
+		"zh-cn": "请勾选协议",
+		"en": "Please tick Protocol",
+		"ko": "동의서를 체크하세요",
+		"ja": "協議にチェックを入れます。"
+	},
+	"fcewjt4": {
+		"zh-cn": "登录成功",
+		"en": "Login successful",
+		"ko": "로그인 성공",
+		"ja": "ログインできました"
+	},
+	"dw45z3": {
+		"zh-cn": "小兔鲜",
+		"en": "Fresh rabbit",
+		"ko": "새끼토끼가 산뜻하다",
+		"ja": "ウサギの赤ちゃんです"
+	},
+	"dq16i96": {
+		"zh-cn": "进入网站首页",
+		"en": "Go to the homepage",
+		"ko": "홈페이지 초기화면으로 들어가다",
+		"ja": "ホームページにアクセスします"
+	},
+	"ojpt2": {
+		"zh-cn": "账户",
+		"en": "account",
+		"ko": "계정",
+		"ja": "口座です"
+	},
+	"g9ob2": {
+		"zh-cn": "密码",
+		"en": "cipher",
+		"ko": "암호",
+		"ja": "パスワードです"
+	},
+	"j3e1bpd": {
+		"zh-cn": "我已同意隐私条款和服务条款",
+		"en": "I have agreed to the Privacy Policy and Terms of Service",
+		"ko": "개인 정보 보호 이용 약관과 서비스 이용 약관에 동의합니다",
+		"ja": "プライバシー規約とサービス規約には同意しました"
+	},
+	"ekeuxo4": {
+		"zh-cn": "点击登录",
+		"en": "Click to log in",
+		"ko": "클릭하여 로그인하다",
+		"ja": "ログインをクリックします。"
+	},
+	"av9kmt4": {
+		"zh-cn": "全部分类",
+		"en": "All categories",
+		"ko": "모든 분류",
+		"ja": "全部分類します"
+	},
+	"qylb2": {
+		"zh-cn": "首页",
+		"en": "Home page",
+		"ko": "첫 페이지",
+		"ja": "トップページです"
+	},
+	"dezs2z4": {
+		"zh-cn": "最新商品",
+		"en": "Latest merchandise",
+		"ko": "최신 상품",
+		"ja": "最新の商品です"
+	},
+	"dmr33m4": {
+		"zh-cn": "最高人气",
+		"en": "Highest popularity",
+		"ko": "최고 인기",
+		"ja": "最高の人気です"
+	},
+	"i7l6vk4": {
+		"zh-cn": "评论最多",
+		"en": "Most commented",
+		"ko": "평론이 가장 많다",
+		"ja": "最も多くのコメントがありました"
+	},
+	"b400fd4": {
+		"zh-cn": "商品信息",
+		"en": "Commodity information",
+		"ko": "상품 정보",
+		"ja": "商品情報です"
+	},
+	"elvm2": {
+		"zh-cn": "单价",
+		"en": "Unit price",
+		"ko": "단가",
+		"ja": "単価です"
+	},
+	"i1y72": {
+		"zh-cn": "数量",
+		"en": "quantity",
+		"ko": "수량",
+		"ja": "数です"
+	},
+	"gfaq2": {
+		"zh-cn": "小计",
+		"en": "subtotal",
+		"ko": "소 계",
+		"ja": "小計です"
+	},
+	"hkxb2": {
+		"zh-cn": "操作",
+		"en": "Controls",
+		"ko": "조작",
+		"ja": "操作します"
+	},
+	"eslg2": {
+		"zh-cn": "删除",
+		"en": "delete",
+		"ko": "삭제",
+		"ja": "削除します"
+	},
+	"ol5e826": {
+		"zh-cn": "确认删除吗?",
+		"en": "Do you want to delete it?",
+		"ko": "삭제를 확인하시겠습니까?",
+		"ja": "削除を確認しますか?"
+	},
+	"l9122": {
+		"zh-cn": "确认",
+		"en": "verify",
+		"ko": "확인",
+		"ja": "確認します"
+	},
+	"ev022": {
+		"zh-cn": "取消",
+		"en": "Cancel",
+		"ko": "취소",
+		"ja": "取り消します"
+	},
+	"rfbvjv7": {
+		"zh-cn": "购物车列表为空",
+		"en": "The shopping cart list is empty",
+		"ko": "쇼핑 카트 목록이 비어 있습니다",
+		"ja": "ショッピングカートのリストは空です"
+	},
+	"jc0ga84": {
+		"zh-cn": "随便逛逛",
+		"en": "Poke around",
+		"ko": "마음대로 돌아다니다",
+		"ja": "ぶらぶらしています"
+	},
+	"g351": {
+		"zh-cn": "共",
+		"en": "A total of",
+		"ko": "모두",
+		"ja": "共です"
+	},
+	"r30lih7": {
+		"zh-cn": "件商品，已选择",
+		"en": "An item has been selected",
+		"ko": "그 중 하나를 선택했습니다",
+		"ja": "商品、選択しました"
+	},
+	"3m5nxs7": {
+		"zh-cn": "件，商品合计：",
+		"en": "Pieces, products total:",
+		"ko": "개, 상품의 합계:",
+		"ja": "商品合計です:"
+	},
+	"a76qmm4": {
+		"zh-cn": "下单结算",
+		"en": "Order settlement",
+		"ko": "주문 결제",
+		"ja": "註文決済です"
+	},
+	"jeapih4": {
+		"zh-cn": "销量人气",
+		"en": "Sales popularity",
+		"ko": "판매량 인기",
+		"ja": "売り上げ人気です。"
+	},
+	"b4a3ou4": {
+		"zh-cn": "商品评价",
+		"en": "Commodity evaluation",
+		"ko": "상품 평가",
+		"ja": "商品評価です"
+	},
+	"dlur5l4": {
+		"zh-cn": "查看评价",
+		"en": "View reviews",
+		"ko": "평가 보기",
+		"ja": "評価を見ることです"
+	},
+	"dbjq2b4": {
+		"zh-cn": "收藏人气",
+		"en": "Collection popularity",
+		"ko": "인기 컬렉션",
+		"ja": "人気コレクションです"
+	},
+	"dbkpjo4": {
+		"zh-cn": "收藏商品",
+		"en": "Collectible goods",
+		"ko": "상품을 수집하다",
+		"ja": "コレクション商品です"
+	},
+	"b5yv894": {
+		"zh-cn": "品牌信息",
+		"en": "Brand information",
+		"ko": "브랜드 정보",
+		"ja": "ブランドメッセージです"
+	},
+	"b5yw794": {
+		"zh-cn": "品牌主页",
+		"en": "Brand homepage",
+		"ko": "브랜드 홈페이지",
+		"ja": "ブランドのホームページです"
+	},
+	"edul2": {
+		"zh-cn": "促销",
+		"en": "Sales promotion",
+		"ko": "세일",
+		"ja": "販促です"
+	},
+	"hjdfotl": {
+		"zh-cn": "12月好物放送，App领券购买直降120元",
+		"en": "In December, the good thing was released, and the App coupon purchase fell by 120 yuan",
+		"ko": "12월 명품방송, 앱수령 쿠폰 직접 할인 120원",
+		"ja": "12月,好物放送,App領券購入直降120元"
+	},
+	"hzck2": {
+		"zh-cn": "服务",
+		"en": "service",
+		"ko": "서비스",
+		"ja": "サービスです"
+	},
+	"d9bofi4": {
+		"zh-cn": "无忧退货",
+		"en": "Worry-free return",
+		"ko": "걱정 없이 반품하다.",
+		"ja": "返品安心です"
+	},
+	"cpbzyq4": {
+		"zh-cn": "快速退款",
+		"en": "Quick refund",
+		"ko": "빠른 환불",
+		"ja": "速やかに返金いたします"
+	},
+	"au96tx4": {
+		"zh-cn": "免费包邮",
+		"en": "Free shipping",
+		"ko": "무료 우송",
+		"ja": "無料小包です"
+	},
+	"ahf0qk4": {
+		"zh-cn": "了解详情",
+		"en": "Learn more",
+		"ko": "자세한 상황을 이해하다.",
+		"ja": "詳細を瞭解します"
+	},
+	"b4a80q4": {
+		"zh-cn": "商品详情",
+		"en": "Product details",
+		"ko": "상품상세정보",
+		"ja": "商品詳細です"
+	},
+	"2eefm95": {
+		"zh-cn": "请选择规格",
+		"en": "Please select specifications",
+		"ko": "규격을 선택하십시오",
+		"ja": "仕様の選択をお願いします。"
+	},
+	"illrake": {
+		"zh-cn": "抓绒保暖，毛毛虫子儿童运动鞋",
+		"en": "Fleece for warmth, furry bug sneakers for kids",
+		"ko": "폴라폴리스 보온 뽀글뽀글 아동 운동화",
+		"ja": "フリース保温,モコモコ子供用運動靴です"
+	},
+	"l8ihgb5": {
+		"zh-cn": "加入购物车",
+		"en": "Add to cart",
+		"ko": "쇼핑 카트에 추가하기",
+		"ja": "カートを入れます"
+	},
+	"dcnrsx4": {
+		"zh-cn": "收货地址",
+		"en": "Delivery address",
+		"ko": "배송 주소",
+		"ja": "お受取先です"
+	},
+	"jzq1": {
+		"zh-cn": "收",
+		"en": "closed",
+		"ko": "수확",
+		"ja": "いただきます"
+	},
+	"rvr1": {
+		"zh-cn": "货",
+		"en": "cargo",
+		"ko": "물건",
+		"ja": "荷です"
+	},
+	"esgw2": {
+		"zh-cn": "人：",
+		"en": "People:",
+		"ko": "사람:",
+		"ja": "人です:"
+	},
+	"kqg6vx5": {
+		"zh-cn": "联系方式：",
+		"en": "Contact information:",
+		"ko": "연락처:",
+		"ja": "連絡先です。"
+	},
+	"ca5zk75": {
+		"zh-cn": "收货地址：",
+		"en": "Delivery address:",
+		"ko": "배송 주소:",
+		"ja": "お届け先です。"
+	},
+	"g0l62": {
+		"zh-cn": "实付",
+		"en": "out-of-pocket",
+		"ko": "실을",
+		"ja": "実払いです"
+	},
+	"2jwlp0hq": {
+		"zh-cn": "<h3 class=\"box-title\" data-v-b466d66b>配送时间</h3><div class=\"box-body\" data-v-b466d66b><a class=\"my-btn active\" href=\"javascript:;\" data-v-b466d66b>不限送货时间：周一至周日</a><a class=\"my-btn\" href=\"javascript:;\" data-v-b466d66b>工作日送货：周一至周五</a><a class=\"my-btn\" href=\"javascript:;\" data-v-b466d66b>双休日、假日送货：周六至周日</a></div><h3 class=\"box-title\" data-v-b466d66b>支付方式</h3><div class=\"box-body\" data-v-b466d66b><a class=\"my-btn active\" href=\"javascript:;\" data-v-b466d66b>在线支付</a><a class=\"my-btn\" href=\"javascript:;\" data-v-b466d66b>货到付款</a><span style=\"color:#999;\" data-v-b466d66b>货到付款需付5元手续费</span></div><h3 class=\"box-title\" data-v-b466d66b>金额明细</h3>",
+		"en": "<h3 class=\"box-title\" data-v-b466d66b> Delivery time </h3><div class=\"box-body\" data-v-b466d66b><a class=\"my-btn active\" href=\"javascript:;\" data-v-b466d66b> Unlimited delivery time: Monday to Sunday </a><a class=\"my-btn\" href=\"javascript:;\" data-v-b466d66b> Weekday delivery: Monday to Friday </a><a class=\"my-btn\" href=\"javascript:;\" data-v-b466d66b> Delivery on weekends and Holidays: Saturday to Sunday </a></div><h3 class=\"box-title\" data-v-b466d66b> Payment method </h3><div class=\"box-body\" data-v-b466d66b><a class=\"my-btn active\" href=\"javascript:;\" data-v-b466d66b> Online payment </a><a class=\"my-btn\" href=\"javascript:;\" \"data-v-b466d66b\" ><span style=\"color:#999; data-v-b466d66b> 5 yuan handling fee is required for cash on delivery </span></div><h3 class=\"box-title\" data-v-b466d66b> Amount details </h3>",
+		"ko": "<h3 class=\"box-title\"data-v-b466d66b> 배송시간 </h3><div class=\"box-body\"data-v-b466d66b><a class=\"my-btn 액티브\"javascript:다/data-v-b466d66b> 배송시간 제한 없음:월요일부터 일요일까지 </a><a class=\"my-btn\"href=\"javascript:;\"data-v-b466d66b> 근무일 배송:월요일부터 금요일까지 </a><a class=\"my-btn\"href=\"javascript:;\"data-v-b466d66b> 주말, 휴일 배송:토요일부터 일요일까지 </a></div><h3 class=\"box-title\"data-v-b466d66b> 지불방식 </h3><div class=\"box-body\"data-v-b466d66b><a class=\"my-btnactive\"/\"javascript:다.\"data-v-b466d66b> 온라인 결제 </a><a class=\"my-btn\"href=\"javascript:;\"data-v-b466d66b> 대금환수 </a><span style=\"color:#999;\"data-v-b466d66b> 착불수수료 5원 지불 </span></div><h3 class=\"box-title\"data-v-b466d66b> 금액명세 </h3>",
+		"ja": "<h3 ><div class=\"box-body\" data-v-b466d66b><a class=\"my-btn active\"ですhref=\"javascript:;\"です。data-v-b466d66b>配送時間制限なし:月~日</a><a class=\"my-btn\" href=\"javascript:;\"data-v-b466d66b>平日配送:月~金</a><a class=\"my-btn\" href=\"javascript:;\"data-v-b466d66b>土日祝日のお届けです。土~日</a></div><h3 class=\"box-title\" data-v-b466d66b>< /h3><div class=\"box-body\" data-v-b466d66b><a class=\"my-btn \"active\" href=\"javascript:;\"ですdata-v-b466d66b>オンライン決済</ ><a class=\"my-btn\" href=\"javascript:;\"data-v-b466d66b>着払い</ ><span style=\"color:#999;\"data-v-b466d66b>代金引払い手数料5円が必要です</span></div><h3 class=\"box-title\" data-v-b466d66b>金額明細</h3>"
+	},
+	"apmhvf5": {
+		"zh-cn": "商品件数：",
+		"en": "Number of items:",
+		"ko": "상품 개수:",
+		"ja": "商品数です。"
+	},
+	"an79995": {
+		"zh-cn": "商品总价：",
+		"en": "Total price of goods:",
+		"ko": "상품의 총가격:",
+		"ja": "商品の合計価格:"
+	},
+	"seo1": {
+		"zh-cn": "运",
+		"en": "shipment",
+		"ko": "수송",
+		"ja": "運びます"
+	},
+	"pf5t2": {
+		"zh-cn": "费：",
+		"en": "Cost:",
+		"ko": "비용:",
+		"ja": "フェ:です。"
+	},
+	"p013ys5": {
+		"zh-cn": "应付总额：",
+		"en": "Total payable:",
+		"ko": "미지급총액:",
+		"ja": "対応総額です。"
+	},
+	"dx2d10h": {
+		"zh-cn": "您需要先添加收货地址才可提交订单。",
+		"en": "You need to add your shipping address before you can submit your order.",
+		"ko": "주문서를 보내시려면 먼저 수신 주소를 추가하셔야 합니다.",
+		"ja": "註文を提出するには先に受取住所を添付しなければなりません。"
+	},
+	"arfq8b4": {
+		"zh-cn": "切换地址",
+		"en": "Switch address",
+		"ko": "주소 전환",
+		"ja": "アドレス切り替えます"
+	},
+	"e7wn9x4": {
+		"zh-cn": "添加地址",
+		"en": "Add address",
+		"ko": "주소 추가",
+		"ja": "アドレスを追加します。"
+	},
+	"fli1": {
+		"zh-cn": "件",
+		"en": "a",
+		"ko": "건",
+		"ja": "はい"
+	},
+	"cxegg74": {
+		"zh-cn": "提交订单",
+		"en": "Submit an order",
+		"ko": "주문서를 제출하다",
+		"ja": "注文書を提出します。"
+	},
+	"q3kyis6": {
+		"zh-cn": "切换收货地址",
+		"en": "Switch delivery address",
+		"ko": "수신처를 전환합니다",
+		"ja": "受取先を切り替えます"
+	},
+	"kzjg2": {
+		"zh-cn": "确定",
+		"en": "OK",
+		"ko": "확정",
+		"ja": "確定です"
+	},
+	"5epglf": {
+		"zh-cn": "订单提交成功！请尽快完成支付。",
+		"en": "Order submitted successfully! Please complete the payment as soon as possible.",
+		"ko": "성공적으로 주문을 받았습니다!최대한 빨리 지불을 마쳐 주세요.",
+		"ja": "注文書の提出に成功しました!早急に支払い完了をお願いします。"
+	},
+	"d5qf8ra": {
+		"zh-cn": "选择以下支付方式付款",
+		"en": "Choose the payment method below",
+		"ko": "아래 결제 방식을 선택하십시오",
+		"ja": "以下の支払い方法を選択します。"
+	},
+	"d3fyue4": {
+		"zh-cn": "支付平台",
+		"en": "Payment platform",
+		"ko": "지불 플랫폼",
+		"ja": "決済プラットフォームです"
+	},
+	"grmupta2": {
+		"zh-cn": "<div class=\"item\" data-v-eb815845><p data-v-eb815845>支付方式</p><a class=\"btn\" href=\"javascript:;\" data-v-eb815845>招商银行</a><a class=\"btn\" href=\"javascript:;\" data-v-eb815845>工商银行</a><a class=\"btn\" href=\"javascript:;\" data-v-eb815845>建设银行</a><a class=\"btn\" href=\"javascript:;\" data-v-eb815845>农业银行</a><a class=\"btn\" href=\"javascript:;\" data-v-eb815845>交通银行</a></div>",
+		"en": "<div class=\"item\" data-v-eb815845><p data-v-eb815845> Payment method </p><a class=\"btn\" href=\"javascript:;\" data-v-eb815845> China Merchants Bank </a><a class=\"btn\" href=\"javascript:;\" data-v-eb815845> Industrial and Commercial Bank of China </a><a class=\"btn\" href=\"javascript:;\" data-v-eb815845> China Construction Bank </a><a class=\"btn\" href=\"javascript:;\" data-v-eb815845> Agricultural Bank </a><a class=\"btn\" href=\"javascript:;\" data-v-eb815845> Bank of Communications </a></div>",
+		"ko": "<div class=\"item\"data-v-eb815845><p data-v-eb815845> 지불방법 </p><a class=\"btn\"href=\"javascript:;\"data-v-eb815845> 초상은행 </a><a class=\"btn\"href=\"javascript:;\"data-v-eb815845> 공상은행 </a><a class=\"btn\"href=\"javascript:;\"data-v-eb815845> 건설은행 </a><a class=\"btn\"href=\"javascript:;\"data-v-eb815845> 농업은행 </a><a class=\"btn\"href=\"javascript:;\"data-v-eb815845> 교통은행 </a></div>",
+		"ja": "<div class=\"item\" data-v-eb815845><p data-v-eb815845>支払い方法</p><a class=\"btn\" href=\"javascript:;\"data-v-eb815845> cmb </ ><a class=\"btn\" href=\"javascript:;\"data-v-eb815845> <a ><a class=\"btn\" href=\"javascript:;\"<a ><a class=\"btn\" href=\"javascript:;\"data-v-eb815845>農業銀行</ ><a class=\"btn\" href=\"javascript:;\"data-v-eb815845>交通銀行</a></div>です。"
+	},
+	"d3od0a4": {
+		"zh-cn": "支付还剩",
+		"en": "Payment remaining",
+		"ko": "지불잔액",
+		"ja": "支払いが残っています"
+	},
+	"bxavtqa": {
+		"zh-cn": ", 超时后将取消订单",
+		"en": ", the order will be canceled after timeout",
+		"ko": "시간이 지나면 주문을 취소하겠습니다",
+		"ja": "時間が切れたら註文をキャンセルします。"
+	},
+	"cvbmw44": {
+		"zh-cn": "我的账户",
+		"en": "My account",
+		"ko": "내 계좌",
+		"ja": "私の口座です"
+	},
+	"acmoc44": {
+		"zh-cn": "交易管理",
+		"en": "Transaction management",
+		"ko": "트레이드 매니지먼트",
+		"ja": "取引管理です"
+	},
+	"a6ttl24": {
+		"zh-cn": "个人中心",
+		"en": "Individual center",
+		"ko": "개인 센터",
+		"ja": "個人センターです"
+	},
+	"cvbao64": {
+		"zh-cn": "我的订单",
+		"en": "My order",
+		"ko": "나의 주문서",
+		"ja": "私の註文です"
+	},
+	"er8bsdbg": {
+		"zh-cn": "<div class=\"item\" data-v-efc2a6de><a href=\"javascript:;\" data-v-efc2a6de><span class=\"iconfont icon-hy\" data-v-efc2a6de></span><p data-v-efc2a6de>会员中心</p></a><a href=\"javascript:;\" data-v-efc2a6de><span class=\"iconfont icon-aq\" data-v-efc2a6de></span><p data-v-efc2a6de>安全设置</p></a><a href=\"javascript:;\" data-v-efc2a6de><span class=\"iconfont icon-dw\" data-v-efc2a6de></span><p data-v-efc2a6de>地址管理</p></a></div>",
+		"en": "<div class=\"item\" data-v-efc2a6de><a href=\"javascript:;\" data-v-efc2a6de><span class=\"iconfont icon-hy\" data-v-efc2a6de></span><p data-v-efc2a6de> Member Center </p></ p></a><a href=\"javascript:;\" data-v-efc2a6de><span class=\"iconfont icon-aq\" data-v-efc2a6de></span><p data-v-efc2a6de> Security Settings </p></a><a href=\"javascript:;\" data-v-efc2a6de><span class=\"iconfont icon-dw\" data-v-efc2a6de></span><p data-v-efc2a6de> Address management </p></a></div>",
+		"ko": "<div class=\"item\"data-v-efc2a6de><a href=\"javascript:;\"data-v-efc2a6de><span class=\"iconfont icon-hy\"data-v-efc2a6de></span><p data-v-efc2a6de> 회원센터 </p></a><ajavascript:다/data-v-efc2a6de><span class=\"iconfont icon-aq\"data-v-efc2a6de></span><p data-v-efc2a6de> 보안 설정 </p></a><ajavascript:다/data-v-efc2a6de><span class=\"iconfont icon-dw\"data-v-efc2a6de></span><p data-v-efc2a6de> 주소 관리 </p></a></div> <span class=\"iconfont icon-dw\"data-v-efc2a6de></span><p data-v-efc2a6de> 주소 관리 </p></a></div>",
+		"ja": "<div class=\"item\" data-v-efc2a6de><a href=\"javascript:;\"data—v—efc2a6de > < span class = \" iconfont icon—hy data—v—efc2a6de > < / span > < p data—v—efc2a6de >会員センター< / p > < / a > < ahref=\"javascript:;\"です。data—v—efc2a6de > < span class = \" iconfont icon—aq data—v—efc2a6de > < / span > < p data—v—efc2a6de >安全設置< / p > < / a > < ahref=\"javascript:;\"です。data-v-ef2a6de ><span class=\"iconfont icon-dw\" data-v-ef2a6de ></span><p data-v-ef2a6de >アドレス管理</p></a></div>"
+	},
+	"eupqdm4": {
+		"zh-cn": "猜你喜欢",
+		"en": "Guess what you like",
+		"ko": "마음에 드실 것 같습니다.",
+		"ja": "お気に召しますか"
+	},
+	"qpg0x6l": {
+		"zh-cn": "我们将尽快为您发货，收货期间请保持手机畅通",
+		"en": "We will deliver the goods to you as soon as possible, please keep your mobile phone unblocked during receipt",
+		"ko": "저희가 가능한 한 빨리 당신께 상품을 발송할 테니 제품을 받는 동안 핸드폰 통화는 계속 원활하게 해 (주)세요",
+		"ja": "できるだけ早く出荷いたしますので,受け取りの間は携帯電話をスムーズにしておいてください"
+	},
+	"k6rohx5": {
+		"zh-cn": "支付方式：",
+		"en": "Payment method:",
+		"ko": "지불방식:",
+		"ja": "支払い方法です。"
+	},
+	"f7gac3": {
+		"zh-cn": "支付宝",
+		"en": "Alipay",
+		"ko": "알리페이",
+		"ja": "アリペイです"
+	},
+	"2jofpb1f": {
+		"zh-cn": "温馨提示：小兔鲜儿不会以订单异常、系统升级为由要求您点击任何网址链接进行退款操作，保护资产、谨慎操作。",
+		"en": "Tips: Little Rabbit will not ask you to click any URL link for refund operation on the grounds of abnormal order and system upgrade, protect assets and operate with caution.",
+		"ko": "따뜻한 주의사항:라투센은 주문서 이상, 시스템 업그레이드를 이유로 귀하에게 어떠한 사이트 링크를 클릭하여 환불을 진행할 것을 요구하지 않습니다. 자산을 보호하고 신중을 기하십시오.",
+		"ja": "暖かいヒント:小兎鮮児は、註文の異常、システムのアップグレードを理由に、払い戻し操作を行うには、任意のurlをクリックする必要はありません資産を保護し、慎重に操作します。"
+	},
+	"hn612": {
+		"zh-cn": "支付",
+		"en": "payment",
+		"ko": "지불",
+		"ja": "支払います"
+	},
+	"h4sv2": {
+		"zh-cn": "成功",
+		"en": "Successful",
+		"ko": "성공",
+		"ja": "成功です"
+	},
+	"fy1g2": {
+		"zh-cn": "失败",
+		"en": "Lose",
+		"ko": "실패",
+		"ja": "失敗です"
+	},
+	"k01dvf5": {
+		"zh-cn": "支付金额：",
+		"en": "Payment Amount:",
+		"ko": "지불금액:",
+		"ja": "支払い金額です。"
+	},
+	"dlur7d4": {
+		"zh-cn": "查看订单",
+		"en": "View order",
+		"ko": "주문서를 확인하다",
+		"ja": "註文を見ます"
+	},
+	"ihv3ex4": {
+		"zh-cn": "进入首页",
+		"en": "Enter the home page",
+		"ko": "홈 페이지로 들어가다",
+		"ja": "トップページに入ります。"
+	},
+	"dlqlvi4": {
+		"zh-cn": "查看物流",
+		"en": "View logistics",
+		"ko": "물류 확인",
+		"ja": "物流を調べます"
+	},
+	"hylr8u4": {
+		"zh-cn": "评价商品",
+		"en": "Evaluate goods",
+		"ko": "상품을 평가하다",
+		"ja": "商品を評価します"
+	},
+	"bisqcg4": {
+		"zh-cn": "在线支付",
+		"en": "Online payment",
+		"ko": "온라인 결제",
+		"ja": "オンライン決済です"
+	},
+	"dluvhh4": {
+		"zh-cn": "查看详情",
+		"en": "View details",
+		"ko": "상세한 상황을 조사하다.",
+		"ja": "詳細を調べます。"
+	},
+	"aqnt3r4": {
+		"zh-cn": "再次购买",
+		"en": "repurchase",
+		"ko": "재발매",
+		"ja": "再購入です"
+	},
+	"fd2mro4": {
+		"zh-cn": "申请售后",
+		"en": "Apply for after-sales service",
+		"ko": "애프터서비스를 신청하다",
+		"ja": "アフターサービスを申請します。"
+	},
+	"b1drz94": {
+		"zh-cn": "取消订单",
+		"en": "Cancel an order",
+		"ko": "주문 취소",
+		"ja": "註文をキャンセルします。"
+	},
+	"avj59v4": {
+		"zh-cn": "全部订单",
+		"en": "Full order",
+		"ko": "전체 주문서",
+		"ja": "全部註文します"
+	},
+	"edo6j3": {
+		"zh-cn": "待付款",
+		"en": "due",
+		"ko": "지불을 기다리다",
+		"ja": "支払い待ちです"
+	},
+	"eepbv3": {
+		"zh-cn": "待发货",
+		"en": "Goods waiting to be sent",
+		"ko": "발송 대기 화물",
+		"ja": "発送待ちです"
+	},
+	"ehnue3": {
+		"zh-cn": "待收货",
+		"en": "Wait to be received",
+		"ko": "수령을 기다리다",
+		"ja": "受取待ちです"
+	},
+	"envnc3": {
+		"zh-cn": "待评价",
+		"en": "Remain to be evaluated",
+		"ko": "평가를 기다리다",
+		"ja": "評価を待ちます"
+	},
+	"e7hbq3": {
+		"zh-cn": "已完成",
+		"en": "completed",
+		"ko": "완료",
+		"ja": "完成しました"
+	},
+	"e68dg3": {
+		"zh-cn": "已取消",
+		"en": "Cancelled",
+		"ko": "취소됨",
+		"ja": "キャンセルしました"
+	},
+	"fefj1t6": {
+		"zh-cn": "暂无订单数据",
+		"en": "No order data available",
+		"ko": "주문 데이터가 없습니다",
+		"ja": "受注データはまだありません。"
+	},
+	"vyvho25": {
+		"zh-cn": "下单时间：",
+		"en": "Order time:",
+		"ko": "주문주문시간:",
+		"ja": "註文時間はこちらです。"
+	},
+	"b8vdbu5": {
+		"zh-cn": "订单编号：",
+		"en": "Order Number:",
+		"ko": "주문서 번호:",
+		"ja": "ご註文番号です。"
+	},
+	"wxqzqc5": {
+		"zh-cn": "付款截止:",
+		"en": "Payment deadline:",
+		"ko": "결제 마감:",
+		"ja": "支払い締切です。"
+	},
+	"6eg1p36": {
+		"zh-cn": "（含运费：¥",
+		"en": "(Including shipping: ¥",
+		"ko": "(엔화 포함:",
+		"ja": "(送料込み:¥です。"
+	},
+	"fu61ke4": {
+		"zh-cn": "立即付款",
+		"en": "Immediate payment",
+		"ko": "즉시 지불하다.",
+		"ja": "すぐに支払います"
+	},
+	"frs0tj4": {
+		"zh-cn": "确认收货",
+		"en": "Confirm receipt of goods",
+		"ko": "수령을 확인하다",
+		"ja": "受け取り確認です"
+	},
+	"f1ovs3": {
+		"zh-cn": "搜一搜",
+		"en": "Try to search",
+		"ko": "뒤지다",
+		"ja": "捜してみます"
+	},
+	"f1kb2": {
+		"zh-cn": "品牌",
+		"en": "brand",
+		"ko": "브랜드",
+		"ja": "ブランドです"
+	},
+	"e4852": {
+		"zh-cn": "专题",
+		"en": "Special subject",
+		"ko": "주제",
+		"ja": "特集です"
+	},
+	"iifi5w4": {
+		"zh-cn": "退出登录",
+		"en": "Log out",
+		"ko": "로그아웃",
+		"ja": "ログアウトします"
+	},
+	"abwoqc4": {
+		"zh-cn": "会员中心",
+		"en": "Member center",
+		"ko": "회원 센터",
+		"ja": "会員センターです"
+	},
+	"c84ii94": {
+		"zh-cn": "帮助中心",
+		"en": "Help center",
+		"ko": "도우미 센터",
+		"ja": "支援センターです"
+	},
+	"alt7ee4": {
+		"zh-cn": "关于我们",
+		"en": "About us",
+		"ko": "우리 자신에 대해",
+		"ja": "私たちについてです"
+	},
+	"w42vlk6": {
+		"zh-cn": "确认退出吗?",
+		"en": "Do you confirm the exit?",
+		"ko": "탈퇴 확인하셨나요?",
+		"ja": "退出を確認しますか?"
+	},
+	"i008q34": {
+		"zh-cn": "请先登录",
+		"en": "Please log in first",
+		"ko": "먼저 로그인하십시오",
+		"ja": "登録をお願いします"
+	},
+	"gv2zi0gr": {
+		"zh-cn": "<div class=\"contact\" data-v-fe6b4ee8><div class=\"container\" data-v-fe6b4ee8><dl data-v-fe6b4ee8><dt data-v-fe6b4ee8>客户服务</dt><dd data-v-fe6b4ee8><i class=\"iconfont icon-kefu\" data-v-fe6b4ee8></i> 在线客服</dd><dd data-v-fe6b4ee8><i class=\"iconfont icon-question\" data-v-fe6b4ee8></i> 问题反馈</dd></dl><dl data-v-fe6b4ee8><dt data-v-fe6b4ee8>关注我们</dt><dd data-v-fe6b4ee8><i class=\"iconfont icon-weixin\" data-v-fe6b4ee8></i> 公众号</dd><dd data-v-fe6b4ee8><i class=\"iconfont icon-weibo\" data-v-fe6b4ee8></i> 微博</dd></dl><dl data-v-fe6b4ee8><dt data-v-fe6b4ee8>下载APP</dt><dd class=\"qrcode\" data-v-fe6b4ee8><img src=\"",
+		"en": "<div class=\"contact\" data-v-fe6b4ee8><div class=\"container\" data-v-fe6b4ee8><dl data-v-fe6b4ee8><dt data-v-fe6b4ee8> Customer Service </dt><dd data-v-fe6b4ee8><i class=\"iconfont icon-kefu\" data-v-fe6b4ee8></i> Online customer service </dd><dd data-v-fe6b4ee8><i class=\"iconfont icon-question\" data-v-fe6b4ee8></i> Feedback </dd></dl><dl data-v-fe6b4ee8><dt data-v-fe6b4ee8> Attention to us </dt><dd data-v-fe6b4ee8><i class=\"iconfont icon-weixin\" data-v-fe6b4ee8></i> Public number </dd><dd data-v-fe6b4ee8><i class=\"iconfont icon-weibo\" data-v-fe6b4ee8></i> Weibo </dd></dl><dl data-v-fe6b4ee8><dt data-v-fe6b4ee8> Download APP</dt><dd class=\"qrcode\" data-v-fe6b4ee8><img src=\"",
+		"ko": "<div class=\"contact\"data-v-fe6b4ee8><div class=\"container\"data-v-fe6b4ee8>< ddl data-v-fe6b4ee8><dtdata-v-fe6b4ee8> 고객 서비스 </dt><dd data-v-fe6b4ee8><i class=\"iconfont icon-kefu\"data-v-fe6b4ee8></i> 온라인 고객 서비스 </dd><dddata-v-fe6b4ee8><i class=\"iconfont icon-question\"data-v-fe6b4ee8></i> 문제 피드백 </dd></dl><dl data-v-fe6b4ee8><dtdata-v-fe6b4ee8> 우리를 주목해 주세요 </dt><dd data-v-fe6b4ee8><i class=\"iconfont icon-weixin\"data-v-fe6b4ee8></i> 공중번호 </dd><dddata-v-fe6b4ee8><i class=\"iconfont icon-weibo\"data-v-fe6b4ee8></i> 트위터 </dd></dl><dl data-v-fe6b4ee8><dtdata-v-fe6b4ee8> app </dt><dd class=\"qrcode\"data-v-fe6b4ee8><img src=\"",
+		"ja": "<div class=\"contact\" data-v-fe6b4ee8><div class=\"container\" data-v-fe6b4ee8><dl data-v-fe6b4ee8><dtdata-v-fe6b4ee8>お客様サービス</dt><dd data-v-fe6b4ee8><i class=\"iconfont icon-kefu\" data-v-fe6b4ee8></i>オンラインお客様サービス</dd><dd ><dd ><dd ><dd ><d ><d >data-v-fe6b4ee8><i class=\"iconfont icon-question\" data-v-fe6b4ee8></i>問題フィードバック</dd></dl><dl data-v-fe6b4ee8><dtdata-v-fe6b4ee8>ご注目ください</dt><dd data-v-fe6b4ee8><i class=\"iconfont icon-weixin\" data-v-fe6b4ee8></i>公式アカウント</dd><dd >data-v-fe6b4ee8><i class=\"iconfont icon-weibo\" data-v-fe6b4ee8></i>微博</dd></dl><dl data-v-fe6b4ee8><dt</dt><dd class=\"qrcode\" data-v-fe6b4ee8><img src=\""
+	},
+	"ksqmdm10d": {
+		"zh-cn": "\" data-v-fe6b4ee8></dd><dd class=\"download\" data-v-fe6b4ee8><span data-v-fe6b4ee8>扫描二维码</span><span data-v-fe6b4ee8>立马下载APP</span><a href=\"javascript:;\" data-v-fe6b4ee8>下载页面</a></dd></dl><dl data-v-fe6b4ee8><dt data-v-fe6b4ee8>服务热线</dt><dd class=\"hotline\" data-v-fe6b4ee8>400-0000-000 <small data-v-fe6b4ee8>周一至周日 8:00-18:00</small></dd></dl></div></div><div class=\"extra\" data-v-fe6b4ee8><div class=\"container\" data-v-fe6b4ee8><div class=\"slogan\" data-v-fe6b4ee8><a href=\"javascript:;\" data-v-fe6b4ee8><i class=\"iconfont icon-footer01\" data-v-fe6b4ee8></i><span data-v-fe6b4ee8>价格亲民</span></a><a href=\"javascript:;\" data-v-fe6b4ee8><i class=\"iconfont icon-footer02\" data-v-fe6b4ee8></i><span data-v-fe6b4ee8>物流快捷</span></a><a href=\"javascript:;\" data-v-fe6b4ee8><i class=\"iconfont icon-footer03\" data-v-fe6b4ee8></i><span data-v-fe6b4ee8>品质新鲜</span></a></div><div class=\"copyright\" data-v-fe6b4ee8><p data-v-fe6b4ee8><a href=\"javascript:;\" data-v-fe6b4ee8>关于我们</a><a href=\"javascript:;\" data-v-fe6b4ee8>帮助中心</a><a href=\"javascript:;\" data-v-fe6b4ee8>售后服务</a><a href=\"javascript:;\" data-v-fe6b4ee8>配送与验收</a><a href=\"javascript:;\" data-v-fe6b4ee8>商务合作</a><a href=\"javascript:;\" data-v-fe6b4ee8>搜索推荐</a><a href=\"javascript:;\" data-v-fe6b4ee8>友情链接</a></p><p data-v-fe6b4ee8>CopyRight © 小兔鲜儿</p></div></div></div>",
+		"en": "\"data-v-fe6b4ee8></dd><dd class=\"download\" data-v-fe6b4ee8><span data-v-fe6b4ee8> Scan the QR code </span><span data-v-fe6b4ee8> Download the APP now </span><a href=\"javascript:;\" data-v-fe6b4ee8> Download page </a></dd></dl><dl data-v-fe6b4ee8><dt data-v-fe6b4ee8> Service hotline </dt><dd class=\"hotline\" data-v-fe6b4ee8>400-0000-000 <small data-v-fe6b4ee8> Monday to Sunday 8:00-18:00</small></dd></dl></div></div><div class=\"extra\" data-v-fe6b4ee8><div class=\"container\" data-v-fe6b4ee8><div class=\"slogan\" data-v-fe6b4ee8><a href=\"javascript:;\" data-v-fe6b4ee8><i class=\"iconfont icon-footer01\" data-v-fe6b4ee8></i><span data-v-fe6b4ee8></ span></a><a href=\"javascript:;\" data-v-fe6b4ee8><i class=\"iconfont icon-footer02\" data-v-fe6b4ee8></i><span data-v-fe6b4ee8></ span></a><a href=\"javascript:;\" data-v-fe6b4ee8><i class=\"iconfont icon-footer03\" data-v-fe6b4ee8></i><span data-v-fe6b4ee8> Quality fresh </span></a></div><div class=\"copyright\" data-v-fe6b4ee8><p data-v-fe6b4ee8><a href=\"javascript:;\" data-v-fe6b4ee8> About us </a><a href=\"javascript:;\" data-v-fe6b4ee8> Help Center </a><a href=\"javascript:;\" data-v-fe6b4ee8> After-sales service </a><a href=\"javascript:;\" data-v-fe6b4ee8> Distribution and acceptance </a><a href=\"javascript:;\" data-v-fe6b4ee8> Business collaboration </a><a href=\"javascript:;\" data-v-fe6b4ee8> Search recommendations </a><a href=\"javascript:;\" Data - v - fe6b4ee8 > link < / a > < / p > < p data - v - fe6b4ee8 > CopyRight © rabbit bright son < / p > < / div > < / div > < / div >",
+		"ko": "data-v-fe6b4ee8></dd><dd class=\"download\"data-v-fe6b4ee8><span data-v-fe6b4ee8> 스캔 2차원 코드 </span><spandata-v-fe6b4ee8> app </span><a href=\"javascript:;\"data-v-fe6b4ee8> 다운로드 페이지 </a></dd></dl><dl data-v-fe6b4ee8><dt data-v-fe6b4ee8> 전화 서비스 </dt><dd class=\"hotline\"data-v-fe6b4ee8>400-0000-000 <small data-v-fe6b4ee8> 월요일~일요일 8:00~18:00</small></dd></dl></div></div><div class=\"extra\"data-v-fe6b4ee8><div class=\"container\"data-v-fe6b4ee8><div class=\"slogan\"data-v-fe6b4ee8><a href=\"javascript:;\"data-v-fe6b4ee8><i class=\"iconfont icon-footer01\"data-v-fe6b4ee8></i><span data-v-fe6b4ee8></span>< a><ajavascript:다/data-v-fe6b4ee8><i class=\"iconfont icon-footer02\"data-v-fe6b4ee8></i><span data-v-fe6b4ee8> 물류 바운스 </span></a><ajavascript:다/data-v-fe6b4ee8><i class=\"iconfont icon-footer03\"data-v-fe6b4ee8></i><span data-v-fe6b4ee8> 신선한 품질 </span></a></div><div<p data-v-fe6b4ee8><a href=\"javascript:;\"data-v-fe6b4ee8> 우리에 대한 정보 </a><a href=\"javascript:;\"data-v-fe6b4ee8> help center </a><a href=\"javascript:;\"data-v-fe6b4ee8> 애프터서비스 </a><a href=\"javascript:;\"data-v-fe6b4ee8> 유통 및 감사 </a><a href=\"javascript:;\"data-v-fe6b4ee8> 비즈니스 제휴 </a><a href=\"javascript:;\"data-v-fe6b4ee8> 검색 추천 </a><a href=\"javascript:;\"data-v-fe6b4ee8 > 우정 링크/a > [/font] [p data-v-fe6b4ee8 > copyright © 새끼토끼 맏 물 [/font] [/div > </div > </div",
+		"ja": "\" data-v-fe6b4ee8></dd><dd class=\"download\" data-v-fe6b4ee8><span data-v-fe6b4ee8>二次元コードをスキャンします</span><spandata-v-fe6b4ee8>すぐにAPPをダウンロードします</span><a href=\"javascript:;\"data-v-fe6b4ee8>ダウンロードページ</a></dd></dl><dl data-v-fe6b4ee8>サービスライン</dt><dd class=\"hotline\"ですdata-v-fe6b4ee8>400-0000-000 <small data-v-fe6b4ee8>月~日8:00-18:00</small></dd></dl></div></div><div class=\"extra\"ですdata-v-fe6b4ee8><div class=\"container\" data-v-fe6b4ee8><div class=\"slogan\" data-v-fe6b4ee8><a href=\"javascript:;\"data-v-fe6b4ee8><i class=\"iconfont icon-footer01\" data-v-fe6b4ee8></i><span data-v-fe6b4ee8><価格親しみやすい</span></a><a >href=\"javascript:;\"です。japan−v−fe6b4ee8 > < i class = \" iconfont icon—footer02 data—v—fe6b4ee8 > < / i > < span data—v—fe6b4ee8 >物流早い< / span > < / a > < ahref=\"javascript:;\"です。data-v-fe6b4ee8><i class=\"iconfont icon-footer03\" data-v-fe6b4ee8></i><span data-v-fe6b4ee8>品質新鮮</span></a>< div><div >class=\"copyright\" data-v-fe6b4ee8><p data-v-fe6b4ee8><a href=\"javascript:;\"data-v-fe6b4ee8>私たちについて</a><a href=\"javascript:;\"です。data-v-fe6b4ee8>ヘルプセンター</a><a href=\"javascript:;\"です。data-v-fe6b4ee8> a><a href=\"javascript:;\"です。data-v-fe6b4ee8>配送と検収</ ><a href=\"javascript:;\"です。data-v-fe6b4ee8>ビジネス</a><a href=\"javascript:;\"です。data-v-fe6b4ee8>検索推奨</a><a href=\"javascript:;\"です。japan−v−fe6b4ee8友情リンク< / a > > < / p > < p data—v—fe6b4ee8 > copyright©ウサギの宣妍兒< / p > < / div > < / div > < / div >"
+	},
+	"av5sil4": {
+		"zh-cn": "分类推荐",
+		"en": "Classified recommendation",
+		"ko": "분류별 추천",
+		"ja": "分類推薦です"
+	},
+	"yau5wod": {
+		"zh-cn": "根据您的购买或浏览记录推荐",
+		"en": "Recommended based on your purchase or browsing history",
+		"ko": "구매 또는 검색 기록에 따라 추천합니다",
+		"ja": "購入や閲覧履歴をもとにおすすめします"
+	},
+	"adsdz64": {
+		"zh-cn": "人气推荐",
+		"en": "Popular recommendation",
+		"ko": "인기 추천",
+		"ja": "人気のおすすめです"
+	},
+	"s2eg0o9": {
+		"zh-cn": "人气爆款 不容错过",
+		"en": "The most popular products are not to be missed",
+		"ko": "인기 아이템은 놓칠 수 없어요",
+		"ja": "爆発的な人気モデルは必見です"
+	},
+	"dh3ptk4": {
+		"zh-cn": "新鲜好物",
+		"en": "Fresh goodies",
+		"ko": "신선하고 좋은 물건",
+		"ja": "新鮮でよい物です。"
+	},
+	"b396n19": {
+		"zh-cn": "新鲜出炉 品质靠谱",
+		"en": "Fresh baked quality is reliable",
+		"ko": "신선하여 품질이 믿을 만하다",
+		"ja": "出来立ての品質は確かです"
+	},
+	"ubq1": {
+		"zh-cn": "馆",
+		"en": "pavilion",
+		"ko": "관",
+		"ja": "館です"
+	},
+	"yis4886": {
+		"zh-cn": "24小时热榜",
+		"en": "24 hours hot list",
+		"ko": "24시간 핫차트",
+		"ja": "24時間ランキングです"
+	},
+	"cwuyf3": {
+		"zh-cn": "周热榜",
+		"en": "Weekly heat list",
+		"ko": "주간 핫차트",
+		"ja": "週間ランキングです"
+	},
+	"7eqto46": {
+		"zh-cn": "mm分ss秒",
+		"en": "mm minutes ss seconds",
+		"ko": "mm 분 ss 초",
+		"ja": "mm分ss秒です"
+	},
+	"bzbu93": {
+		"zh-cn": "件商品",
+		"en": "Piece of product",
+		"ko": "하나의 상품",
+		"ja": "一つの商品です"
+	},
+	"9qav596": {
+		"zh-cn": "去购物车结算",
+		"en": "Shopping cart checkout",
+		"ko": "계산하러 카트 가다",
+		"ja": "ショッピングカートで決済します"
+	},
+	"bukq4l17": {
+		"zh-cn": "E:/代码/vue-rabbit/src/App.vue:7:3:RouterView",
+		"en": "E: / code/vue - rabbit/SRC/App. Vue: 7:3: RouterView",
+		"ko": "e:/코드/vue-rabbit/src (앱) vue:::routerview",
+		"ja": "e:双/コードvue—rabbit / /アプリ. vue: 7: routerview"
+	}
+}
